@@ -2,12 +2,12 @@
 using namespace std;
 int main(){
 
-int x;
+int z;
 cout<<"enter a number you want to do half :";
-cin>>x;
+cin>>z;
 
-float y = (float) x; // typecasting
+float a = (float) z; // typecasting
 
-cout<<y/2;
+cout<<a/2;
 
 }
